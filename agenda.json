@@ -1,0 +1,10 @@
+[
+{ "title":"Welcome", "speaker":"Prof Joe Bloggs", "endtime":"20170911093000" },
+{ "title":"Docker for Developers", "speaker":"Joe Schmoe", "endtime":"20170911103000" },
+{ "title":"Python Data Analysis", "speaker":"Jane Doe", "endtime":"20170911111500" },
+{ "title":"Coffee Break", "speaker":"", "endtime":"20170911113000" },
+{ "title":"Python Data Analysis", "speaker":"Jane Doe", "endtime":"20170911120000" },
+{ "title":"Lunch", "speaker":"", "endtime":"20170911124500" },
+{ "title":"Linux Certification", "speaker":"A N Other", "endtime":"20200908165000" },
+{ "title":"QA", "speaker":"Session", "endtime":"20210911165000" }
+]
